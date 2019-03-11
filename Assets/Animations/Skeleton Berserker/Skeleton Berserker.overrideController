@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Skeleton Berserker
+  m_Controller: {fileID: 9100000, guid: ce5044e71a24b51499225f28eff08c33, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: f4f935f84a606eb488b796d2823ecfa3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8ec01f1bfaf4f384da79f5881a73474a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8478a3936fecd624ea647dfcbadd4002, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7753051f6c6d9f24eb86b0a724afa8ee, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 40fd606c5b6fafa45abab0f8395f2fdd, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 859c8258248b69742be518c8cb6aec5c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 35c43482e7e7d5745bdd581e285cd1a4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 75757a393b22ded4a9992928b2e10de6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6e8a3394e91120e4f9d9957eddcef413, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ea6329f229adafb4587313645e5b6574, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4029480b3996ed64c960ed3ac32d0170, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 87195032d02b96b408cb70e5c7614f9b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4bbe989aed486b740bdbe1753252ddf9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d93d06ae2127e944e8769e87454d1f0f, type: 2}

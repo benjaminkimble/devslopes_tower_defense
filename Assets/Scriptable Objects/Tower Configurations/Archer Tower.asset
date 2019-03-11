@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55816f68119a41946bf04f5c32216c24, type: 3}
+  m_Name: Archer Tower
+  m_EditorClassIdentifier: 
+  TowerImage: {fileID: 21300336, guid: 71057241e41bde3438c34a64b624fae5, type: 3}
+  Price: 10
+  TowerPrefab: {fileID: 1787363348889696, guid: 46c315486d1990345b98c58fa9cb6210,
+    type: 2}

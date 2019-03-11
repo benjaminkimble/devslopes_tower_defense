@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - TowerNode
+  - Projectile
+  - Castle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Grass and Dirt
+    uniqueID: 2858451585
+    locked: 0
+  - name: Roads
+    uniqueID: 2781175483
+    locked: 0
+  - name: Trees
+    uniqueID: 2543543153
+    locked: 0
+  - name: Fences
+    uniqueID: 2642879003
+    locked: 0
+  - name: Buildings
+    uniqueID: 824403509
+    locked: 0
+  - name: Extras
+    uniqueID: 2753869807
+    locked: 0
+  - name: Towers
+    uniqueID: 4122415709
+    locked: 0
+  - name: Enemies
+    uniqueID: 765981625
+    locked: 0
+  - name: UI
+    uniqueID: 3258190319
+    locked: 0
